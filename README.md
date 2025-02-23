@@ -155,3 +155,4 @@ Il server Flask si avvierà su **http://127.0.0.1:5000**
 ✅ **Autenticazione utenti**  
 ✅ **Database** per archiviazione persistente  
 
+![Esempio di scraping sulla pagina BBC](scraping.png)
